@@ -51,7 +51,7 @@ Examples:
 ## Marking task as done: mark
 Marks a task in the task list as done.
 
-Format:`mark LIST_INDEX`
+Format: `mark LIST_INDEX`
 
 Example:
 - `mark 1`
@@ -59,7 +59,7 @@ Example:
 ## Unmarking task as done: mark
 Marks a task in the task list as not done.
 
-Format:`unmark LIST_INDEX`
+Format: `unmark LIST_INDEX`
 
 Example:
 - `unmark 1`
