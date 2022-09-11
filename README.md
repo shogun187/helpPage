@@ -56,7 +56,7 @@ Format: `mark LIST_INDEX`
 Example:
 - `mark 1`
 
-## Unmarking task as done: mark
+## Marking task as not done: unmark
 Marks a task in the task list as not done.
 
 Format: `unmark LIST_INDEX`
